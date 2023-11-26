@@ -1,9 +1,15 @@
-package paz1a.dominik.chrobak.a5;
+package sk.paz1a.practicals.a5;
 
-import java.io.File;
+import sk.upjs.jpaz2.*;
 
 public class Launcher {
 
 	public static void main(String[] args) {
+
+		KorytnaciSvet world = new KorytnaciSvet();
+
+		ObjectInspector oi = new ObjectInspector();
+		
+		oi.inspect(world);
 	}
 }
