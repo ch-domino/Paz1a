@@ -1,4 +1,4 @@
-package sk.paz1a.practicals.a5;
+package sk.paz1a.dominik.chrobak.a5;
 
 import sk.upjs.jpaz2.*;
 
