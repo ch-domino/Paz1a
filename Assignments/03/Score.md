@@ -1,4 +1,4 @@
-***4.5/5 ( 90% )***
+***4.5/5 ( 90.00% )***
 # Comment from Teacher:
 ```
 Tak vseobecne, komentare maju byt na vysvetlenie tazsie pochopitelneho kodu. Komentovat v podstate kazdy riadkok nema velmi vyznam ak je absolutne jasne co sa robi, napr
