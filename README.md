@@ -1,6 +1,6 @@
 # PAZ1a Subject Summary
 
-This document provides a summary of the scores I obtained in the PAZ1a subject, including homeworks, midterm project, and final term project. I received a `C` for this subject. This repository is made for me to share what I did this year with others for them to learn, compare, and help them with passing the subject.
+This document provides a summary of the scores I obtained in the PAZ1a subject, including homeworks, midterm project, and final term project. I received a `C` for this subject. This repository is made for me to share what I did this year with others and help them with learning by comparing their code against mine.
 
 ## Total Scores
 
