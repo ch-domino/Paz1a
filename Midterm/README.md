@@ -16,11 +16,6 @@ twinChar: 10/10 [VO]
 divisibleDigitsSums: 9/10 [VP] - Prečo for cyklus na zistenie deliteľnosti?
 ```
 
-## Summary
-
-- **Total Score Obtained:** 24.00
-- **Total Possible Score:** 30.00
-
 ## Project Description
 
 The project consists of a series of tasks implemented in Java. Below is a brief description of the main components of the project:

@@ -14,11 +14,6 @@ This document provides a summary of the scores obtained in the final term projec
 N/A
 ```
 
-## Summary
-
-- **Total Score Obtained:** 34.00
-- **Total Possible Score:** 70.00
-
 ## Project Description
 
 The project consists of a skiing diary application that tracks various skiing runs. Below is a brief description of the main components of the project:
