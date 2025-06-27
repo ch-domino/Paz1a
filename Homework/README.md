@@ -5,7 +5,7 @@ This document provides a summary of the scores I obtained in the homeworks for t
 ## Total Scores
 
 | Homework | Score Obtained | Total Possible Score |
-|----------|----------------|----------------------|
+| -------- | -------------- | -------------------- |
 | HW01     | 05.00          | 05.00                |
 | HW02     | 08.00          | 08.00                |
 | HW03     | 07.90          | 08.00                |
@@ -22,4 +22,4 @@ This document provides a summary of the scores I obtained in the homeworks for t
 
 ## Assessment Reports
 
-For detailed comments from the teachers and the reasons behind the scores, please refer to the `Score.md` file for each homework. Each `Score.md` file contains the assessment report for the respective homework.
+For detailed comments from the teachers and the reasons behind the scores, please refer to the `README.md` file for each homework. Each `README.md` file contains the assessment report for the respective homework.

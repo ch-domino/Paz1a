@@ -5,8 +5,16 @@ This document provides a summary of the scores obtained in the midterm project f
 ## Total Scores
 
 | Project Component | Score Obtained | Total Possible Score |
-|-------------------|----------------|----------------------|
+| ----------------- | -------------- | -------------------- |
 | Midterm Project   | 24.00          | 30.00                |
+
+# Assesment Report
+
+```
+christmasTree: 0/10 [ŠP] - neriešené
+twinChar: 10/10 [VO]
+divisibleDigitsSums: 9/10 [VP] - Prečo for cyklus na zistenie deliteľnosti?
+```
 
 ## Summary
 
